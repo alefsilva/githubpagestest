@@ -1,2 +1,2 @@
 # githubpagestest
-Test URL of githubpages
+Test URL of githubpagestest.github.io
